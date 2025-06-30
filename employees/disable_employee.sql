@@ -1,0 +1,1 @@
+UPDATE tblUsers SET Active = 0 WHERE UserID = @UserID;

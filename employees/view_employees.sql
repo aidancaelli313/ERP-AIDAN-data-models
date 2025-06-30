@@ -1,0 +1,1 @@
+SELECT * FROM tblUsers WHERE Active <> 0 AND Not UserName Like 'Auto%';
