@@ -1,0 +1,85 @@
+# SQL Server files
+*.mdf
+*.ldf
+*.ndf
+
+# SQL Server backup files
+*.bak
+*.trn
+
+# SQL Server log files
+*.log
+
+# Visual Studio / SQL Server Management Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.dbmdl
+*.jfm
+*.pfx
+*.publishsettings
+
+# SQL Server Data Tools
+*.sqlproj.user
+*.dbproj.user
+*.dacpac
+*.bacpac
+
+# Azure Data Studio
+.azuredatastudio/
+
+# Database project files
+*.dbschema
+*.scmp
+*.refactorlog
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE specific files
+.idea/
+*.swp
+*.swo
+*~
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+
+# NuGet Packages
+*.nupkg
+packages/
+
+# Local configuration files
+*.local.config
+*.local.settings.json
+
+# Connection strings and sensitive data
+connectionstrings.config
+appsettings.local.json
+
+# SQL execution plans
+*.sqlplan
+
+# SQL Server Profiler
+*.trc
+
+# Documentation build output
+_site/
+site/
+
+# Backup folders
+backup/
+backups/
