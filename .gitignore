@@ -83,3 +83,7 @@ site/
 # Backup folders
 backup/
 backups/
+
+.mcprc.json
+
+SQL-AI-samples/
